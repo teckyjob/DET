@@ -8,6 +8,9 @@
 - ask someone a question
 - motivate someone to do something
 - hesitate to + verb
+- be interested in + noun / V-ing
+- specialize in + noun
+- on the internet
 
 ## 2. Full sentence examples
 - AI has a positive impact on education.
@@ -17,6 +20,9 @@
 - The teacher answered a student's question.
 - AI can motivate students to continue learning.
 - Some students hesitate to ask for help.
+- You can find a huge amount of information on the internet.
+- If you are interested in finance, you can study independently.
+- Many quantitative analysts specialize in building mathematical models.
 
 ## 3. Quick review
 - Use full sentences, not word-only notes.
