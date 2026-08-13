@@ -3,6 +3,11 @@
 ## Prompt
 Do you think artificial intelligence will have a positive or negative impact on education? Explain your opinion with reasons and examples.
 
+## Conditions
+- Time: about 5 minutes
+- Dictionary / AI: No
+- Target: 80–120 words
+
 ## My Original Version
 I think artificial intelligence have positive impact on education , specicifily for the student weak at communication.
 
@@ -14,17 +19,16 @@ With guidance and a suitable approach firmware ,you can learn more quickier . A 
 In ai era , the depth of specialized knowledge will be come general , and the generalist will be automated. 
 People would more and more to time to handle complex problem
 
-
 ## Refined Version
- I think artificial intelligence has a positive impact on education, especially for students who are weak in communication.
+I think artificial intelligence has a positive impact on education, especially for students who are weak in communication.
 
-Nowadays, we live in a digital world, and children and teenagers are familiar with browsing the internet and searching for information. Before AI became popular, there was already a huge amount of information online , but not everyone knew know to use it effectively.
+Nowadays, we live in a digital world, and children and teenagers are familiar with browsing the internet and searching for information. Before AI became popular, there was already a huge amount of information online, but not everyone knew how to use it effectively.
 
-Ai can empower students by acting like a 24-hrs personal tutor. Student can ask question ,receive explanations, and study independently. This can be especially helpful for shy students who may be afraid to ask questions in class.
+AI can empower students by acting like a 24-hour personal tutor. Students can ask questions, receive explanations, and study independently. This can be especially helpful for shy students who may be afraid to ask questions in class.
 
-With proper guidance and effective learning approach, student can learn faster. AI can also help them to understand difficult topics and receive immediate feedback.
+With proper guidance and an effective learning approach, students can learn faster. AI can also help them understand difficult topics and receive immediate feedback.
 
-In the AI era, specialized knowledge may become easier to access . Therefore, people will need to speed more time solving complex problem instead of simply searching for or memorizing information.
+In the AI era, specialized knowledge may become easier to access. Therefore, people will need to spend more time solving complex problems instead of simply searching for or memorizing information.
 
 ## Key Improvements
 - AI have → AI has
@@ -33,6 +37,12 @@ In the AI era, specialized knowledge may become easier to access . Therefore, pe
 - huge information → a huge amount of information
 - Before AI popular → Before AI became popular
 - more quickier → faster / more quickly
+- knew know → knew how
+- 24-hrs personal tutor → 24-hour personal tutor
+- Student can ask question → Students can ask questions
+- effective learning approach → an effective learning approach
+- speed more time → spend more time
+- complex problem → complex problems
 
 ## Useful Patterns
 - have a positive impact on
