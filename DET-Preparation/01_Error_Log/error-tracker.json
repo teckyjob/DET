@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-08-13",
+    "category": "Subject-verb agreement",
+    "mistake": "AI have a positive impact",
+    "correction": "AI has a positive impact"
+  },
+  {
+    "date": "2026-08-13",
+    "category": "Articles",
+    "mistake": "a important role",
+    "correction": "an important role"
+  },
+  {
+    "date": "2026-08-13",
+    "category": "Past tense",
+    "mistake": "people use computers",
+    "correction": "people used computers"
+  },
+  {
+    "date": "2026-08-13",
+    "category": "Articles (Generic plural)",
+    "mistake": "the shy student",
+    "correction": "shy students"
+  },
+  {
+    "date": "2026-08-13",
+    "category": "Countable vs Uncountable",
+    "mistake": "huge information",
+    "correction": "a huge amount of information"
+  }
+]
