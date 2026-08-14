@@ -46,5 +46,59 @@
     "category": "Word form",
     "mistake": "may afraid",
     "correction": "may be afraid"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Collocation / Prepositions",
+    "mistake": "has an huge impact to",
+    "correction": "has a huge impact on"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Articles",
+    "mistake": "an huge",
+    "correction": "a huge"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Sentence structure",
+    "mistake": "I am afraid of I can't help you",
+    "correction": "I'm afraid I can't help you"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Collocation",
+    "mistake": "familiar with setup RAG",
+    "correction": "familiar with setting up RAG"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Subject-verb agreement",
+    "mistake": "Practice make / he specialize",
+    "correction": "Practice makes / he specializes"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Collocation",
+    "mistake": "talk anything on the internet",
+    "correction": "talk about anything on the internet"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Subject-verb agreement",
+    "mistake": "Budget cuts has a huge impact",
+    "correction": "Budget cuts have a huge impact"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Collocation",
+    "mistake": "familiar with to use",
+    "correction": "familiar with using"
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Word form",
+    "mistake": "may not happy",
+    "correction": "may not be happy"
   }
 ]
