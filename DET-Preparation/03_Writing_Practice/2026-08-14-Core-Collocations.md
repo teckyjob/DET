@@ -80,5 +80,36 @@ I think the key is you may not happy with your looking
 ### Refined Version
 Confidence means everything. If you are afraid to post your photos on the internet, I think the key is that you may not be happy with your looks.
 
+## Review Round 2
+
+### My Answers
+1. Budget cuts **have** a major impact **on** public hospitals.
+2. I became familiar **with using** this framework.
+3. She **specializes** in machine learning.
+4. Some students may **be** afraid to speak in class.
+5. He talks **about** AI with his classmates every day.
+6. Practice makes people become more **confident**.
+
+### Stable Patterns
+- have an impact on
+- be familiar with + V-ing
+- specialize in
+- modal + be + adjective
+- talk about + topic
+
+### Still Weak
+- confidence = noun
+- confident = adjective
+- make + object + adjective
+- ability to + verb
+
+### Useful Contrast
+- I have more **confidence** after practicing speaking.
+- Practice makes me more **confident**.
+- My ability **to handle** problems gives me confidence.
+
+### Additional Correction
+- It make sence. → It **makes sense**.
+
 ## My Takeaway
-I can already use several core patterns, especially `afraid to + verb`, `interested in + V-ing`, `hesitate to + verb`, `ask a question about`, and `I'm afraid that + clause`. After a second check, `have/has an impact on` and `familiar with + V-ing` are becoming more stable. The next priority is keeping `be` after modal verbs: `may not be happy`, not `may not happy`.
+I can already use several core patterns, especially `afraid to + verb`, `interested in + V-ing`, `hesitate to + verb`, `ask a question about`, and `I'm afraid that + clause`. `have/has an impact on`, `familiar with + V-ing`, `specialize in`, and `modal + be + adjective` are becoming more stable. The next priority is word form and sentence structure: `confidence` vs `confident`, `make + object + adjective`, and `ability to + verb`.
