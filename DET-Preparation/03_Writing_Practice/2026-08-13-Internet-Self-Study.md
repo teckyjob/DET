@@ -14,7 +14,7 @@ You can learn new things anytime , anywhere in internet. If you feel interest to
 ## Refined Version
 You can learn new things anytime and anywhere on the internet. If you are interested in a certain topic, you can search and study independently. With proper guidance and an effective learning approach, you can be a quick learner, and that motivates you to specialize in something you are interested in.
 
-## Stronger DET Version (Advanced Vocabulary & Flow)
+## git  (Advanced Vocabulary & Flow)
 The internet enables individuals to acquire new knowledge anytime and anywhere. If you develop an interest in a specific subject, you can easily conduct research and study independently. Guided by an effective learning strategy, you can accelerate your learning curve, which ultimately motivates you to specialize in a field you are passionate about.
 
 ## Key Improvements
