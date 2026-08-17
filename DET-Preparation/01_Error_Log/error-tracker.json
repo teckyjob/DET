@@ -100,5 +100,29 @@
     "category": "Word form",
     "mistake": "may not happy",
     "correction": "may not be happy"
+  },
+  {
+    "date": "2026-08-17",
+    "category": "Subject-verb agreement / Auxiliaries",
+    "mistake": "don't makes sense",
+    "correction": "doesn't make sense"
+  },
+  {
+    "date": "2026-08-17",
+    "category": "Prepositions",
+    "mistake": "in my team",
+    "correction": "on my team"
+  },
+  {
+    "date": "2026-08-17",
+    "category": "Word form",
+    "mistake": "in the further",
+    "correction": "in the future"
+  },
+  {
+    "date": "2026-08-17",
+    "category": "Sentence structure",
+    "mistake": "No senior on my team",
+    "correction": "There was no senior on my team"
   }
 ]

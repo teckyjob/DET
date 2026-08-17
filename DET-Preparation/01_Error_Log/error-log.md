@@ -19,6 +19,10 @@
 | Budget cuts has a huge impact | Budget cuts have a huge impact | Check the subject first. Plural subjects take `have`, even with the chunk `have/has an impact on` | Budget cuts have a huge impact on public hospitals. |
 | familiar with to use | familiar with using | `be familiar with` takes a noun or V-ing, not `to + verb` | After two weeks, I am familiar with using this software. |
 | may not happy | may not be happy | After `may / can / will / should`, adjectives still need `be` | You may not be happy with your looks. |
+| don't makes sense | doesn't make sense | Singular subject takes `doesn't`. After `doesn't`, use the base verb form | This financial model doesn't make sense to me. |
+| in my team | on my team | Preposition: use "on" when referring to membership in a team | There was no senior developer on my team. |
+| in the further | in the future | Word form: "future" is a noun (time to come); "further" is an adjective/adverb (more distant) | This would help me make technical decisions in the future. |
+| No senior on my team | There was no senior on my team | Use the "there was / there were" structure to state existence in the past | There was no senior on my team to guide me. |
 
 ## 2. Reflection
 - Be careful with singular/plural agreement in scientific and academic writing.
